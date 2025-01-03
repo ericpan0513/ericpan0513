@@ -2,6 +2,8 @@
 
 I am a passionate Data Analyst with nearly three years of experience turning complex data into actionable insights. With expertise in tools like Python, SQL, and Power BI, I thrive on solving challenging problems, optimizing processes, and driving measurable business results.
 
+Welcome to my github, feel free to take a look at the projects that I've done before!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chunwei-eric-pan-97b476268/) 
