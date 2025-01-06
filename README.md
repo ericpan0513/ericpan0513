@@ -1,4 +1,4 @@
-# Hi, I'm Eric!
+# Hi, I'm Chunwei!
 
 I am a passionate Data Analyst with nearly three years of experience turning complex data into actionable insights. With expertise in tools like Python, SQL, and Power BI, I thrive on solving challenging problems, optimizing processes, and driving measurable business results.
 
